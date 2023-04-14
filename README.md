@@ -1,6 +1,6 @@
 # Hasil Praktikum
-# accesingMetadata
-![Screenshot](images/accesingMetadata.png)
+# accessingMetadata
+![Screenshot](images/accessingMetadata.png)
 # CreatingDataFrames
 ![Screenshot](images/CreatingDataFrames.png)
 # CreatingDataFramesfromDBs
