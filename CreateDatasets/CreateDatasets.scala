@@ -25,4 +25,4 @@ deptDF.rdd
 deptDS.filter(x => x.dept_location > 1).show()
 
 //<console>:31: error: value dept_location is not a member of Dept
-//       deptDS.filter(x => x.dept_location > 1).show()
+//deptDS.filter(x => x.dept_location > 1).show()
