@@ -37,7 +37,7 @@
 
     17.parquet adalah format file kolomar untuk menyimpan data di lingkungan Hadoop.
     
-    18. Options, inferSchema, csv, header, dan codec adalah opsi dan metode yang dapat digunakan dalam PySpark untuk membaca, menulis, dan memanipulasi data dalam berbagai format.
+    18.Options, inferSchema, csv, header, dan codec adalah opsi dan metode yang dapat digunakan dalam PySpark untuk membaca, menulis, dan memanipulasi data dalam berbagai format.
 
 # Hasil Praktikum
 # accessingMetadata
