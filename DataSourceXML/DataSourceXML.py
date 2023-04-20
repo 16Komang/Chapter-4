@@ -11,8 +11,7 @@ certificate
 
 # Read the xml file and select data elements from DataFrame. 
 
-df_xml = spark.read.format('com.databricks.spark.xml').options
-(rowTag='book',attributePrefix='@').load('books.xml')
+df_xml = spark.read.format('com.databricks.spark.xml').options(rowTag='book',attributePrefix='@').load('books.xml')
 
 df_xml.select('@id','author','title').show(5,False)
 

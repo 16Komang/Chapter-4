@@ -37,10 +37,12 @@
     17. parquet adalah format file kolomar untuk menyimpan data di lingkungan Hadoop.
 
     18. Options, inferSchema, csv, header, dan codec adalah opsi dan metode yang dapat digunakan dalam PySpark untuk membaca, menulis, dan memanipulasi data dalam berbagai format.
-
+ 
 # Hasil Praktikum
 # accessingMetadata
 ![Screenshot](images/accessingMetadata.png)
+# CreateDatasets
+![Screenshot](images/CreateDatasets.png)
 # CreatingDataFrames
 ![Screenshot](images/CreatingDataFrames.png)
 # CreatingDataFramesfromDBs
@@ -55,6 +57,8 @@
 ![Screenshot](images/DataSourceAVRO.png)
 # DataSourceCSV
 ![Screenshot](images/DataSourceCSV.png)
+# DataSourceJDBC
+![Screenshot](images/DataSourceJDBC.png)
 # DataSourceJson
 ![Screenshot](images/DataSourceJson.png)
 # DataSourceORC
@@ -67,6 +71,9 @@
 ![Screenshot](images/DataSourceXML.png)
 # PandasDF2DataFrame
 ![Screenshot](images/PandasDF2DataFrame.png)
+# SparkOnHBaseConnector
+![Screenshot](images/SparkOnHBaseConnector.png)
+
 ##### Komang Gede Narariya Suputra
 ##### 2041720225
 ##### TI3B
